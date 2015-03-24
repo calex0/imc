@@ -38,5 +38,5 @@
     <splash src="splash/splash.png" density="port-xhdpi"/>
 </platform>
 	<preference name="SplashScreen" value="screen"/>
-	<preference name="SplashScreenDelay" value="5000"/>
+	<preference name="SplashScreenDelay" value="2500"/>
 </widget>
